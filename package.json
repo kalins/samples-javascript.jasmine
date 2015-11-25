@@ -29,6 +29,7 @@
     "jasmine": "git://github.com/jasmine/jasmine-npm.git",
     "load-grunt-tasks": "^0.4.0",
     "shelljs": "~0.1.4",
-    "temp": "~0.8.1"
+    "temp": "~0.8.1",
+    "jasmine-reporters": "2.0.*"
   }
 }
